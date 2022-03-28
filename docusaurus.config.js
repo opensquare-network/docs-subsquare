@@ -11,8 +11,8 @@ module.exports = {
   themeConfig: {
     navbar: {
       logo: {
-        alt: 'Opensquare Logo',
-        src: 'img/logo.png',
+        alt: 'SubSquare Logo',
+        src: 'img/subsquare-logo.svg',
       },
       items: [
         {
